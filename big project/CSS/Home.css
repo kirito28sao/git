@@ -4,6 +4,7 @@ body{
     background-image: url(../Images/my\ saad\ project\ ground.png);
     background-repeat: no-repeat;
      background-size: 100%;
+     overflow-x: hidden;
      
 
 }
@@ -62,12 +63,12 @@ header{
 }
 
 #woman{
-   margin-top: -2px;
-height: 632px;
+   margin-top: -11px;
+height: 568px;
 }
 
 #paradiv{
-    margin-right: 22.7%;
+    margin-right: 19.8%;
     margin-left: 9%;
     margin-top: 6%;
 }
@@ -82,9 +83,9 @@ font-family: Arial;
 font-size: 20px;
 font-style: normal;
 font-weight: 400;
-line-height: 32px; /* 160% */
-    margin-left: 15%;
-margin-top: 3%;
+
+    margin-left: 13%;
+margin-top: 2.5%;
     display:inline block;
     width:10%
 }
@@ -96,7 +97,7 @@ margin-top: 3%;
     bottom: -2%;
 }
 #ad{
-    margin-bottom: 12%;
+    margin-bottom: 9%;
 }
 
 #bbt{
@@ -113,7 +114,7 @@ margin-bottom: 15px;
     font-size: 80px;
     font-style: normal;
     font-weight: 700;
-    line-height: 76.8px; /* 96% */
+  
 }
 #of{
     color: #4EB2F9;
@@ -121,7 +122,7 @@ margin-bottom: 15px;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
-    line-height: 48px; /* 120% */
+    
 }
 #our{
     color: #536288;
@@ -129,7 +130,10 @@ margin-bottom: 15px;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
-    line-height: 32px; /* 160% */
+    line-height: 32px; 
+}
+section{
+    margin-left: -2%;
 }
 #we{
     color: #0F2F64;
@@ -138,7 +142,7 @@ font-family: Arial;
 font-size: 40px;
 font-style: normal;
 font-weight: 400;
-line-height: 48px; /* 120% */
+line-height: 48px;
 }
 #clin{
     color: #536288;
@@ -147,7 +151,7 @@ font-family: Arial;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height: 25.6px; /* 160% */
+line-height: 25.6px;
 }
 #read{
     font-weight: 700;
@@ -161,7 +165,7 @@ font-family: Arial;
 font-size: 40px;
 font-style: normal;
 font-weight: 400;
-line-height: 48px; /* 120% */
+line-height: 48px; 
 }
 #bel{
     color: #536288;
@@ -169,7 +173,7 @@ font-family: Arial;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height: 25.6px; /* 160% */
+line-height: 25.6px; 
 }
 
 .hs{
@@ -180,7 +184,7 @@ font-family: Arial;
 font-size: 24px;
 font-style: normal;
 font-weight: 400;
-line-height: 28.8px; /* 120% */
+line-height: 28.8px;
 }
 .ps{
     margin-left: 32px;
@@ -207,12 +211,12 @@ height: 283px;
     box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
 border-radius: 20px;}
 main{
-    margin-bottom: 7.5%;
-    margin-top: 10%;
-    margin-left: 12.5%;
+    
+    margin-top: 7.4%;
+    margin-left: 10%;
     display: grid;
-    grid-template-columns: repeat(4,20%);
-    grid-template-rows: repeat(3,33.3%);
+    grid-template-columns: repeat(4,302px);
+    grid-template-rows: repeat(3,283px);
 }
 
 #pt{
@@ -236,18 +240,18 @@ font-family: Arial;
 font-size: 40px;
 font-style: normal;
 font-weight: 400;
-line-height: 48px; /* 120% */
+line-height: 48px; 
 margin-bottom: 44px;
 }
 
 aside{
-    margin-top: 14.5%;
-    margin-bottom: 12%;
+    margin-top: 11.2%;
+    margin-bottom: 11%;
 
 }
 #stepcon{
     display: flex;
-    margin-left: 12%;
+    margin-left: 7.5%;
 
     
 }
@@ -340,8 +344,8 @@ font-weight: 400;
     padding-top: 10px;
     border-radius: 15px;
     position: absolute;
-    top:63%  ;
-    left: 15.45%;
+    top:64%  ;
+    left: 11.2%;
     width: 289px;
     height: 140px;
     background-color: white;
@@ -373,7 +377,7 @@ font-weight: 400;
 #view{
    margin-left: 1161px;
     padding: 16px 28.563px 17.594px 28px;
-    margin-bottom: 97px;
+    margin-bottom:-20px;
 }
 
 .php{
@@ -417,13 +421,13 @@ font-family: Arial;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height: 25.6px; /* 160% */
+line-height: 25.6px;
     width: 295px;
     height: 56px;
 }
 #right{
     margin-left: 120px;
-    margin-top: 88px;
+    margin-top: 70px;
     margin-bottom: 92px;
 }
 #numcont{
@@ -486,8 +490,8 @@ font-weight: 700;
 
 }
 #final{
-    margin-top: 85px;
-    margin-left: 87px;
+    margin-top: 9px;
+    margin-left: -3px;
     display: flex;
 }
 
@@ -543,7 +547,7 @@ line-height: 32px; /* 160% */
 }
 
 .rf{
-margin-top: -30px;
+margin-top: 1px;
 }
 #before{
 margin-bottom: 40px;
@@ -558,9 +562,9 @@ font-weight: 400;
 
 #beforef{
     padding-top: 70px;
-width:1300px;
-margin-left: 220px;
-margin-bottom: 46px;
+width:1208px;
+margin-left: 130px;
+margin-bottom: 45px;
     background-image: url(../Images/before\ foot.png);
     background-size: cover;
 }
@@ -590,7 +594,7 @@ padding: 16px 27.125px 17.594px 27px;
 #fimg{
     width: 193px;
 height:55px;
-margin-left: 240px;
+margin-left: 160px;
 
 }
 
@@ -601,6 +605,8 @@ margin-left: 240px;
 }
 .end{
     text-align: center;
+    padding-bottom: 1.5%;
+    margin-bottom: 0px;
 
 }
 
@@ -622,4 +628,8 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height:20px; /* 160% */
+}
+
+footer{
+    background-color: rgba(245, 249, 254, 1);
 }
